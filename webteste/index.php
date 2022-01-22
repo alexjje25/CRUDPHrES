@@ -10,7 +10,7 @@
 	
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <title>Home</title>
   <meta charset="utf-8">
